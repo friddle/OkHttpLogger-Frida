@@ -1,3 +1,6 @@
+# 这次Fork的目标
+添加gzip输出
+
 # OkHttpLogger-Frida
 - Frida 实现拦截okhttp的脚本
 
